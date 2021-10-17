@@ -1,0 +1,9 @@
+/// @mainpage bijou
+///
+/// @section main_intro Introduction
+/// Welcome to bijou.
+///
+/// @section main_caveat Caveat
+/// bijou is based on stable APIs from the LLVM project, but the project is
+/// still at a very early stage.
+/// So lots of things may change.
